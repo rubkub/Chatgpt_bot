@@ -12,7 +12,9 @@
 
 ```
 pip install pyTelegramBotAPI
+```
 
+```
 pip install -U g4f
 ```
 

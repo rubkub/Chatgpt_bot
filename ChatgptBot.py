@@ -5,7 +5,6 @@ from telebot import TeleBot, types
 token = 'Ваш токен телеграмм бота.'
 client = Client()
 bot = TeleBot(token)
-
 kb_text = types.ReplyKeyboardMarkup()
 
 models_work = ['gpt-3.5-turbo', 'gpt-4o','gpt-4o-mini','gpt-4-turbo',
